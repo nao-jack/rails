@@ -1,0 +1,30 @@
+*{
+  margin:0;
+  padding:0;
+}
+p,button{
+  width:200px;
+  margin-top:80px;
+  margin-left:20px;
+  background-color:#90ffff;
+  display:inline-block;
+  border-radius:20px;
+  padding:10px;
+  border:solid 3px #888;
+}
+.stopwatch-title{
+  text-align:center;
+  font-size:30px;
+  margin:auto;
+  }
+.stopwatch-title > p{
+  min-width:400px;
+}
+#timer{
+  font-size:60px;
+  text-align:center;
+  margin-top:60px;
+}
+.stopwatch-button{
+  text-align:center;
+}
